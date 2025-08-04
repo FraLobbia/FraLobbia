@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FraLobbia
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning web developing at Epicode
-- 📫 How to reach me: francescolobbia@icloud.com
+- 👋 Hi, I’m Francesco 
+- 💫 Interested in web development  
+- 👥 Currently working as a full stack web developer at ErWeb [erweb.it](https://www.erweb.it/it-IT/)  
+- 📫 Reach me at: francescolobbia@icloud.com
 
 
 <!---
