@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Francesco 
 - 💫 Interested in web development  
-- 👥 Currently working as a full stack web developer at ErWeb [erweb.it](https://www.erweb.it/it-IT/)  
+- 👥 Currently working as a full stack web developer.
 - 📫 Reach me at: francescolobbia@icloud.com
 
 
